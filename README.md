@@ -6,7 +6,7 @@
 ### 可能有个bug
 如果在用户列表中点击自己名字的话，跳转到私聊聊天室的时候可能会有显示bug。所以就尽量别误点到自己的名字。如果可以的话，就请自己修改一下吧。
 ### 主页
-!(img/chat.jpg)
+![image](https://github.com/kurodasense/AjaxChat/raw/main/img/chat.jpg)
 ### 注册
 https://github.com/kurodasense/AjaxChat/blob/main/img/regist.jpg
 ### 登录
