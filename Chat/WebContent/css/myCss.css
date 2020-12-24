@@ -1,0 +1,48 @@
+.myTop{
+    background-color: rgb(110, 202, 220);
+    margin-left: 0;
+    margin-right: 0;
+}
+.myTop h2{
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.myTop .myImg{
+    width: auto;
+    height: auto;
+    margin-left: 30px;
+
+}
+.myImg img{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    border: 1px solid white;
+}
+.myRight{
+    margin-top: 40px;
+}
+.myRight h2{
+    color: white;
+    margin-left: auto;
+}
+.myRight p{
+
+}
+.myMed{
+    background-color: whitesmoke;
+}
+.myInfo div{
+    float: left;
+    padding: 25px;
+
+}
+.myBot{
+    background-color: rgb(110, 202, 220);
+}
+.myBot h3{
+    color: white;
+    padding-left: 10px;
+    margin-left: 30px;
+}

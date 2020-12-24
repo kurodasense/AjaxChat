@@ -1,0 +1,24 @@
+div[class='carousel-item'] img{
+    height: 50%;
+}
+.card{
+    width: 500px;
+}
+.carousel-indicators li{
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-radius: 50%;
+}
+.carousel-indicators .active{
+    background-color: #0aa1ed;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 4%;
+    height: 20%;
+    background-color: #aaaaaa;
+    top: 40%;
+    border-radius: 0.25rem;
+}

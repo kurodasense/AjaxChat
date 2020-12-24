@@ -1,0 +1,32 @@
+body{
+	background-position: top;
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+h1{
+	width:300px;
+	margin:210px auto 0px;
+	text-align: center;
+	color:#990000;
+	font-size:27px;
+}
+form{
+	width:400px;
+	margin:25px auto 0px;
+}
+
+form input[type='text'],form input[type='password']{
+	border: 1px solid #CCCCCC;
+	height: 25px;
+	line-height:25px;
+	vertical-align: middle;
+}
+
+table{
+	margin:0px auto 0px;
+}
+td{
+	padding-top:10px;
+}
+.tdx{
+	text-align: right;
+}

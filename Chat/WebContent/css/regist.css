@@ -1,0 +1,39 @@
+﻿@charset "utf-8";
+form{
+	width: 450px;
+	margin: 0 auto;
+}
+h1{
+	width: 300px;/* */
+	color: #990000;
+	margin: 190px auto 30px;
+	text-align: center;
+}
+
+table{
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+td{
+	padding-top: 10px;
+}
+.tds{
+	font-size: 18px;
+	text-align: right;
+}
+
+img{
+	vertical-align: top;
+}
+
+.sub_td{
+	text-align: center;
+}
+
+input[type='submit']{
+	border: none;
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
