@@ -5,13 +5,13 @@
 用eclipse导入项目，然后在SQLyog中导入数据库文件就可以使用了。记得在applicationContext.xml中修改里面的数据库链接数据，将里面的数据库用户名和密码修改为你的数据库用户名和密码。
 ### 可能有个bug
 如果在用户列表中点击自己名字的话，跳转到私聊聊天室的时候可能会有显示bug。所以就尽量别误点到自己的名字。如果可以的话，就请自己修改一下吧。
-### 主页
+## 主页
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/index.jpg)
-### 注册
+## 注册
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/regist.jpg)
-### 登录
+## 登录
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/login.jpg)
-### 公共聊天室
+## 公共聊天室
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/chat.jpg)
-### 私聊
+## 私聊
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/siliao.jpg)
