@@ -8,7 +8,7 @@
 ## 主页
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/index.jpg)
 ## 注册
-![image](https://github.com/kurodasense/AjaxChat/raw/main/img/regist.jpg)
+![image](https://github.com/kurodasense/AjaxChat/raw/main/img/register.jpg)
 ## 登录
 ![image](https://github.com/kurodasense/AjaxChat/raw/main/img/login.jpg)
 ## 公共聊天室
